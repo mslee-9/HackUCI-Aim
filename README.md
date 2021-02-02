@@ -11,6 +11,8 @@ We used React.js to build the front end using CSS and HTML and we used NodeJS, E
 
 Contributors: Sol Lee, Michael Vo, Jerry Tan, Kelly Zheng, Joseph Gu
 
+Devpost: https://devpost.com/software/aim-d6qzs0
+
 ## Getting started
 
 The application is broken down into a client and server folder.
